@@ -4,6 +4,16 @@
         border-bottom: 0 !important;
         
       }
+      .link{
+        margin-bottom: 12px;
+        
+      }
+      .ps-2{
+        padding-left: 0 !important;
+      }
+      .img-flex{
+        display: none;
+      }
 }
 
 /*Small devices (tables and large phones, 600px and up)*/
